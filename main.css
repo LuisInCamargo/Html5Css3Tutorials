@@ -1,0 +1,14 @@
+p{
+/*	color:red;
+	font: Arial;
+	font-weight: bold;
+	font-weight: 300;
+	font-style: italic;
+	font-size: 14px;
+*/
+	font : bold italic 14px Tahoma;
+}
+
+h1{
+	background-color: blue;
+}
